@@ -1,0 +1,14 @@
+th{
+    background-color: darkgray;
+    border-radius: 8px;
+}
+tr{
+    background-color: darkgray;
+font-style: bold;
+border-radius: 4px
+;
+}
+table{
+    text-align: center;
+    border-radius: 8px;
+}

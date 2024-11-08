@@ -1,0 +1,36 @@
+.header{
+    background-color: aqua;
+    height: 120px;
+    width: auto;
+    text-align: center;
+}
+.main{
+    width: auto;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+;
+    
+
+}
+.sidebar{
+    background-color: blueviolet;
+    width: 300px;
+    height: 700px;
+    text-align: center;
+
+
+}
+.home{
+    background-color:green;
+    width: 1600px;
+    height: 700px;
+    text-align: center; 
+}
+.footer{
+background-color: cadetblue;
+height: 120px;
+width:auto;
+text-align: center;
+}
+

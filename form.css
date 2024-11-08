@@ -1,0 +1,12 @@
+.box{
+
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: column;  
+}
+.edit{
+    border-radius: 12px;
+    ;
+}
+ 
